@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.majicktek.xenchant.ExampleMod"
+      "com.majicktek.xenchant.XEnchantEntry"
     ]
   },
   "mixins": [
