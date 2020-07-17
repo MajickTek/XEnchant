@@ -3,14 +3,14 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "XEnchant",
+  "description": "A simple mod that removes the limits of /enchant. Go wild!",
   "authors": [
-    "Me!"
+    "MajickTek"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/xenchant/",
+    "sources": "https://github.com/MajickTek/XEnchant"
   },
 
   "license": "CC0-1.0",
